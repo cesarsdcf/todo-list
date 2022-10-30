@@ -1,0 +1,2 @@
+Essa lista de taferas simples foi feita com o uso de LocalStorage para que as tafares fiquem armazenadas no banco de dados do navegador. 
+Também colocando em pratica e testando meus conhecimentos com o uso de JSON.
